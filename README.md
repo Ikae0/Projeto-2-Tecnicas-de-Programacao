@@ -4,7 +4,7 @@ Durante o projeto, exploramos dados de saúde renal no Brasil, utilizando Python
 
 
 ># Descritivo na integra da solicitação do projeto:
-> # Projeto: Técnicas de Programação I
+ # Projeto: Técnicas de Programação I
 *Professor:* Jorge Chamby-Diaz
 *Link grupos projeto:* (https://docs.google.com/spreadsheets/d/1MBh2XBc9OfX0p0fdFty1rGfCAxYhfrUVRO40K0AJstY/edit?usp=sharing)
 
