@@ -3,6 +3,10 @@ Tivemos a oportunidade de aprender técnicas em python para trabalhar com data s
 Durante o projeto, exploramos dados de saúde renal no Brasil, utilizando Python e Pandas. Descobrimos uma possível associação entre o tipo sanguíneo O+ e falhas renais, além de disparidades no tempo de espera pelo transplante, especialmente entre sexos e idades. Aprofundamos nossas habilidades em análise de dados e colaboração em equipe, destacando áreas para futuras pesquisas e intervenções na saúde renal.
 
 
+
+
+
+
 ># Descritivo na integra da solicitação do projeto:
  # Projeto: Técnicas de Programação I
 *Professor:* Jorge Chamby-Diaz
